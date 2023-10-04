@@ -1,0 +1,22 @@
+{
+    "name": "Technology",
+    "icon": "create:wrench",
+    "category": "patchouli:getting_started",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "It's Create and Tom's Simple Storage! Here's some helpful links:"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://create.fandom.com/wiki/Create_Mod_Wiki",
+            "link_text": "Create Wiki"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://modrinth.com/mod/toms-storage",
+            "text": "Tom's Simple Storage",
+            "link_text": "TSS Modrinth Page"
+        }
+    ]
+}

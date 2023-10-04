@@ -1,0 +1,19 @@
+{
+    "name": "Lone Phantom",
+    "icon": "minecraft:iron_boots{Enchantments:[{}]}",
+    "category": "patchouli:quests",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "1_splatus:ultris/phantom_fight2",
+            "text": "Slay the Lone Phantom"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://github.com/SpluoSplatus/Ultris/wiki/Phantom-Swarm",
+            "text": "Find the lone phantom all alone in the vastness of the void",
+            "title": "Lone Phantom",
+            "link_text": "Wiki"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Sanctum Keeper",
+    "icon": "minecraft:bow{Enchantments:[{}]}",
+    "category": "patchouli:quests",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "1_splatus:ultris/sanctum/keeper2",
+            "text": "Slay the Sanctum Keeper"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://github.com/SpluoSplatus/Ultris/wiki/Sanctum-Keeper",
+            "text": "The Sanctum Keeper, found deep in the center of the Sanctum is a ranged skeleton boss that uses the abilities of absorbed souls to mirror illusions of itself and teleport across its arena. It's eyes are filled with the fury of the spirits within its hollow body.",
+            "title": "Sanctum Keeper",
+            "link_text": "Wiki"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://github.com/SpluoSplatus/Ultris/wiki/Sanctum",
+            "text": "The Sanctum is a large, randomly generated, underground dungeon in the overworld that stores Souls and uses their energy for sinister motives.",
+            "title": "Sanctum",
+            "link_text": "Wiki"
+        }
+    ]
+}

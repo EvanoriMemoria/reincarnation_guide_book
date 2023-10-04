@@ -1,0 +1,16 @@
+{
+    "name": "Waystones",
+    "icon": "fwaystones:waystone",
+    "category": "patchouli:getting_started",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Waystones will be your primary mode of getting back to where you died! (After walking and digging of course)."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "fwaystones:waystone",
+            "recipe2": "fwaystones:abyss_watcher"
+        }
+    ]
+}

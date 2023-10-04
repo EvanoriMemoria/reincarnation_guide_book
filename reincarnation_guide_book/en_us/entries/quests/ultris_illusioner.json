@@ -1,0 +1,19 @@
+{
+    "name": "Illusioner",
+    "icon": "friendsandfoes:totem_of_illusion{Enchantments:[{}]}",
+    "category": "patchouli:quests",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "1_splatus:ultris/illusionerkill",
+            "text": "Slay the Illusioner"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://github.com/SpluoSplatus/Ultris/wiki/Illusioner",
+            "text": "The Illusioner is a powerful Illager, well trained in the art of deception and trickery.",
+            "title": "Illusioner",
+            "link_text": "Wiki"
+        }
+    ]
+}

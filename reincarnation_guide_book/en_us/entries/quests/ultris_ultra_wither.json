@@ -1,0 +1,19 @@
+{
+    "name": "Ultra Wither",
+    "icon": "minecraft:nether_star{Enchantments:[{}]}",
+    "category": "patchouli:quests",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "1_splatus:ultris/ultrawitherkill",
+            "text": "Slay the Ultra Wither"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://github.com/SpluoSplatus/Ultris/wiki/Ultra-Wither",
+            "text": "The Ultra Wither is a version of the Wither that has had its power amplified by a command block. This version of the wither has more health, can dash, explode, and even summon deadly lasers.",
+            "title": "Ultra Wither",
+            "link_text": "Wiki"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "name": "Legendary Weapons",
+    "icon": "simplyswords:sunfire",
+    "category": "patchouli:getting_started",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Of course, with the increase in difficulty comes and increase in ways to fight! Better Combat is included for your enjoyment, along with Simply Swords. $(br2) These Weapons cannot be crafted, only found from bosses, dungeons, and mobs with flaming crowns."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": {
+                "item": "simplyswords:slumbering_lichblade"
+            }
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": {
+                "item": "simplyswords:mjolnir"
+            }
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": {
+                "item": "simplyswords:shadowsting"
+            }
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": {
+                "item": "simplyswords:watching_warglaive"
+            }
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": {
+                "item": "simplyswords:soulpyre"
+            }
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": {
+                "item": "simplyswords:molten_edge"
+            }
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": {
+                "item": "simplyswords:hearthflame"
+            },
+            "text": "And More!"
+        }
+    ]
+}

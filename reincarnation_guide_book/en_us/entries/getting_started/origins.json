@@ -1,0 +1,15 @@
+{
+    "name": "Origins",
+    "icon": "minecraft:poppy",
+    "category": "patchouli:getting_started",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Origins are a huge part of this modpack. Press $(#ff0000)$(k:origins.view_origin)$() to view your origin information. All origins have bonuses and debuffs, the severity ranges greatly. $(br2) If you dislike your current origin you can use $(#00ccff)$(c:/randomise)/randomise$() to get a new one."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(#ff6600)On respawn$() you will also be $(#ff6600)reincarnated$() as a random origin!"
+        }
+    ]
+}

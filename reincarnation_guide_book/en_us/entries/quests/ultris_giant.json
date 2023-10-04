@@ -1,0 +1,19 @@
+{
+    "name": "Giant",
+    "icon": "minecraft:iron_boots{Enchantments:[{}]}",
+    "category": "patchouli:quests",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "1_splatus:ultris/giantdefeat",
+            "text": "Slay the Giant"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://github.com/SpluoSplatus/Ultris/wiki/Giant",
+            "text": "The Giant is an enormous zombie that has taken in the effects of a strength potion to a high amount. Giants can summon troop zombies from the ground, damage you if you get too close, and make giant shockwaves that break blocks.",
+            "title": "Giant",
+            "link_text": "Wiki"
+        }
+    ]
+}

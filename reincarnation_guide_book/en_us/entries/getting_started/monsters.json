@@ -1,0 +1,46 @@
+{
+    "name": "Monsters",
+    "icon": "minecraft:diamond_sword",
+    "category": "patchouli:getting_started",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Watch out for the Monsters, there are many! I've included models of just a few of the ones to watch out for early on. $(br2)Did I mention they get more difficult with distance from spawn?"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "enderzoology:fallen_knight{HandItems:[{id:netherite_sword,Count:1},{id:bow,Count:1}],ArmorItems:[{id:iron_boots,Count:1},{id:leather_leggings,Count:1},{id:iron_chestplate,Count:1},{id:chainmail_helmet,Count:1}],HandDropChances:[0f,0f],ArmorDropChances:[0f,0f,0f,0f]}",
+            "name": "Fallen Knight",
+            "text": "Armed and Armoured Dead",
+            "rotate": false
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "creeperoverhaul:snowy_creeper",
+            "name": "Snowy Creeper",
+            "text": "Many New Creeper Variants",
+            "rotate": false
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "graveyard:nightmare",
+            "name": "Nightmare",
+            "text": "Even More Undead",
+            "rotate": false
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "hybrid-aquatic:fiddler_crab",
+            "name": "Crab :)",
+            "text": "More Sea Life",
+            "rotate": false
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "mutantmonsters:mutant_zombie",
+            "name": "Mutant Zombie",
+            "text": "Massive Mutant Monsters",
+            "rotate": false
+        }
+    ]
+}

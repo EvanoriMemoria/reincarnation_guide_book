@@ -1,0 +1,68 @@
+{
+    "name": "Bosses",
+    "icon": "simplyswords:soulrender",
+    "category": "patchouli:getting_started",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The many difficult bosses of Reincarnation!"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "bosses_of_mass_destruction:lich",
+            "name": "The Lich",
+            "text": "Found occupying towers in the frozen lands, you'll need four Soul Stars to summon them, and one to find them. 25% chance of dropping a unique simply swords weapon on defeat.",
+            "rotate": true
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "bosses_of_mass_destruction:void_blossom",
+            "name": "Void Blossom",
+            "offset": -3.5,
+            "text": "You'll find these deep beneath the earth. 50% chance of dropping a unique simply swords weapon on defeat.",
+            "rotate": true
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "bosses_of_mass_destruction:obsidilith",
+            "name": "Obsidilith",
+            "offset": -3.5,
+            "text": "Found atop massive floating pillars in the end, bring a pickaxe and an eye of ender! 50% chance of dropping a unique simply swords weapon on defeat.",
+            "rotate": true
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "bosses_of_mass_destruction:gauntlet",
+            "name": "The Gauntlet",
+            "text": "Found in the nether, break the blocks at the center to begin! 50% chance of dropping a unique simply swords weapon on defeat.",
+            "rotate": true
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:ender_dragon",
+            "name": "Ender Dragon",
+            "text": "Beefed up and ready to fight! 50% chance of dropping a unique simply swords weapon on defeat.",
+            "rotate": true
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "graveyard:lich",
+            "name": "Graveyard Lich",
+            "text": "Found on top of massive floating islands in the overworld, he will need to be assembled. Good luck! 100% chance of dropping a unique simply swords weapon on defeat.",
+            "rotate": true
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "gigeresque:egg",
+            "name": "Egg?",
+            "text": "Deep beneath the earth slumbers an ancient evil...",
+            "rotate": true
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://github.com/SpluoSplatus/Ultris/wiki",
+            "text": "Ultris Boss Expansion! These have no additional unique drops add by the pack.",
+            "link_text": "Ultris Wiki"
+        }
+    ]
+}

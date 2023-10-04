@@ -1,0 +1,19 @@
+{
+    "name": "Corrupted Enderman",
+    "icon": "minecraft:ender_pearl{Enchantments:[{}]}",
+    "category": "patchouli:quests",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "1_splatus:ultris/enderkill",
+            "text": "Slay the Corrupted Enderman"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://github.com/SpluoSplatus/Ultris/wiki/Corrupted-Enderman",
+            "text": "The Corrupted Enderman is an Enderman empowered by a sinister energy. It's voice warped and red particles swirling it's body. If you attack, it will awaken with a rupturing sound.",
+            "title": "Corrupted Enderman",
+            "link_text": "Wiki"
+        }
+    ]
+}

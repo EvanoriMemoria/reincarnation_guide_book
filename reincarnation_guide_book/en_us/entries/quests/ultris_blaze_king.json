@@ -1,0 +1,19 @@
+{
+    "name": "Blaze King",
+    "icon": "minecraft:iron_helmet{Enchantments:[{}]}",
+    "category": "patchouli:quests",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "1_splatus:ultris/blazepath/kingblazekill",
+            "text": "Slay the Blaze King"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://github.com/SpluoSplatus/Ultris/wiki/Blaze-King",
+            "text": "The Blaze King crowned the fortresses of the Nether long ago. For much time, it has remained in a deep sleep encased in glass at the top of its tower, protected by countless blazes and wither skeletons throughout the surrounding fortress. Legends say someday one will awaken the king once more.",
+            "title": "Blaze King",
+            "link_text": "Wiki"
+        }
+    ]
+}

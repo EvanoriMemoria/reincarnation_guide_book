@@ -1,0 +1,19 @@
+{
+    "name": "Shulker Stone",
+    "icon": "minecraft:end_stone{Enchantments:[{}]}",
+    "category": "patchouli:quests",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "1_splatus:ultris/blazepath/shulkerstonekill",
+            "text": "Slay the Shulker Stone"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://github.com/SpluoSplatus/Ultris/wiki/Shulker-Stone",
+            "text": "The Shulker Stone once ruled an ancient form of the end cities lost to time. Through unknown circumstances, its people sealed its soul away into a pedestal, where it remained in a deep sleep for centuries and lost its form. Legends say someday one will unseal it, reawakening it once more at kingdom's end.",
+            "title": "Shulker Stone",
+            "link_text": "Wiki"
+        }
+    ]
+}

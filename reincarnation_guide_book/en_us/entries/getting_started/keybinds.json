@@ -1,0 +1,15 @@
+{
+    "name": "Keybinds",
+    "icon": "minecraft:writable_book",
+    "category": "patchouli:getting_started",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "There are a few usefull keybinds not listed in the keybind menu."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Inventory Profiles Next Config: r+c $(br2)Presence Footsteps: F10 $(br2)Link an Item in Chat: ctrl+t"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "name": "Weapons",
+    "icon": "simplyswords:runic_chakram",
+    "category": "patchouli:getting_started",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "There are many new tools of war. They come in iron, gold, diamond, netherite, and runic!"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "simplyswords:diamond_longsword",
+            "recipe2": "simplyswords:diamond_twinblade"
+
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "simplyswords:diamond_rapier",
+            "recipe2": "simplyswords:diamond_katana"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "simplyswords:diamond_sai",
+            "recipe2": "simplyswords:diamond_spear"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "simplyswords:diamond_glaive",
+            "recipe2": "simplyswords:diamond_warglaive"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "simplyswords:diamond_cutlass",
+            "recipe2": "simplyswords:diamond_claymore"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "simplyswords:diamond_greathammer",
+            "recipe2": "simplyswords:diamond_greataxe"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "simplyswords:diamond_chakram",
+            "recipe2": "simplyswords:diamond_scythe"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "simplyswords:diamond_halberd"
+        }
+    ]
+}
